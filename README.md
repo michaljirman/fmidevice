@@ -1,4 +1,7 @@
-# fmidevice
+[![Build Status](https://travis-ci.org/michaljirman/fmidevice.svg?branch=master)](https://travis-ci.org/michaljirman/fmidevice)
+[![GoDoc](https://godoc.org/github.com/michaljirman/fmidevice?status.svg)](https://godoc.org/github.com/michaljirman/fmidevice)
+
+# FMIDEVICE
 
 A command line program and library which locates all iDevices associated with an Apple ID registered on the iCloud services. 
 
