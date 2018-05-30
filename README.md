@@ -1,6 +1,6 @@
 # fmidevice
 
-FMIDEVICE locates all iDevices associated with an Apple ID and registered on the iCloud services. 
+A command line program and library which locates all iDevices associated with an Apple ID registered on the iCloud services. 
 
 By default, a web client is used to access location data. A user is notified via email same way as he would be in the case of accessing an iCloud services through a web browser. Additionally, the 2FA (Two Factor Authentication) is triggered on devices associated with an Apple ID.
 
