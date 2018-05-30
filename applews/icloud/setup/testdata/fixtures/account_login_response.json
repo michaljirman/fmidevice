@@ -1,0 +1,225 @@
+{
+    "dsInfo": {
+        "lastName": "Test",
+        "iCDPEnabled": false,
+        "dsid": "111111111",
+        "hsaEnabled": true,
+        "ironcadeMigrated": true,
+        "locale": "en-gb_GB",
+        "brZoneConsolidated": false,
+        "isManagedAppleID": false,
+        "gilligan-invited": "true",
+        "appleIdAliases": [],
+        "hsaVersion": 2,
+        "isPaidDeveloper": true,
+        "countryCode": "GBR",
+        "notificationId": "000000-00-00000000-0000-0000-0000-000000000000",
+        "primaryEmailVerified": true,
+        "aDsID": "000000-00-00000000-0000-0000-0000-000000000000",
+        "locked": false,
+        "hasICloudQualifyingDevice": true,
+        "primaryEmail": "tester.test@icloud.com",
+        "appleIdEntries": [
+            {
+                "isPrimary": true,
+                "type": "EMAIL",
+                "value": "tester.test@icloud.com"
+            }
+        ],
+        "gilligan-enabled": "true",
+        "fullName": "Tester Test",
+        "languageCode": "en-gb",
+        "appleId": "tester.test@icloud.com",
+        "firstName": "Tester",
+        "iCloudAppleIdAlias": "",
+        "notesMigrated": true,
+        "hasPaymentInfo": true,
+        "pcsDeleted": false,
+        "appleIdAlias": "",
+        "brMigrated": true,
+        "statusCode": 2
+    },
+    "hasMinimumDeviceForPhotosWeb": true,
+    "iCDPEnabled": false,
+    "webservices": {
+        "reminders": {
+            "url": "https://p66-remindersws.icloud.com:443",
+            "status": "active"
+        },
+        "calendar": {
+            "url": "https://p66-calendarws.icloud.com:443",
+            "status": "active"
+        },
+        "docws": {
+            "pcsRequired": true,
+            "url": "https://p66-docws.icloud.com:443",
+            "status": "active"
+        },
+        "settings": {
+            "url": "https://p66-settingsws.icloud.com:443",
+            "status": "active"
+        },
+        "ubiquity": {
+            "url": "https://p66-ubiquityws.icloud.com:443",
+            "status": "active"
+        },
+        "streams": {
+            "url": "https://p66-streams.icloud.com:443",
+            "status": "active"
+        },
+        "keyvalue": {
+            "url": "https://p66-keyvalueservice.icloud.com:443",
+            "status": "active"
+        },
+        "ckdatabasews": {
+            "pcsRequired": true,
+            "url": "https://p66-ckdatabasews.icloud.com:443",
+            "status": "active"
+        },
+        "photosupload": {
+            "pcsRequired": true,
+            "url": "https://p66-uploadphotosws.icloud.com:443",
+            "status": "active"
+        },
+        "archivews": {
+            "url": "https://p66-archivews.icloud.com:443",
+            "status": "active"
+        },
+        "photos": {
+            "pcsRequired": true,
+            "uploadUrl": "https://p66-uploadphotosws.icloud.com:443",
+            "url": "https://p66-photosws.icloud.com:443",
+            "status": "active"
+        },
+        "push": {
+            "url": "https://p66-pushws.icloud.com:443",
+            "status": "active"
+        },
+        "drivews": {
+            "pcsRequired": true,
+            "url": "https://p66-drivews.icloud.com:443",
+            "status": "active"
+        },
+        "uploadimagews": {
+            "url": "https://p66-uploadimagews.icloud.com:443",
+            "status": "active"
+        },
+        "iwmb": {
+            "url": "https://p66-iwmb.icloud.com:443",
+            "status": "active"
+        },
+        "cksharews": {
+            "url": "https://p66-ckshare.icloud.com:443",
+            "status": "active"
+        },
+        "iworkexportws": {
+            "url": "https://p66-iworkexportws.icloud.com:443",
+            "status": "active"
+        },
+        "geows": {
+            "url": "https://p66-geows.icloud.com:443",
+            "status": "active"
+        },
+        "findme": {
+            "url": "https://p66-fmipweb.icloud.com:443",
+            "status": "active"
+        },
+        "ckdeviceservice": {
+            "url": "https://p66-ckdevice.icloud.com:443"
+        },
+        "iworkthumbnailws": {
+            "url": "https://p66-iworkthumbnailws.icloud.com:443",
+            "status": "active"
+        },
+        "account": {
+            "iCloudEnv": {
+                "shortId": "p"
+            },
+            "url": "https://p66-setup.icloud.com:443",
+            "status": "active"
+        },
+        "fmf": {
+            "url": "https://p66-fmfweb.icloud.com:443",
+            "status": "active"
+        },
+        "contacts": {
+            "url": "https://p66-contactsws.icloud.com:443",
+            "status": "active"
+        }
+    },
+    "pcsEnabled": true,
+    "configBag": {
+        "urls": {
+            "accountCreateUI": "https://appleid.apple.com/widget/account/?widgetKey=88888888888888888888888888888888#!create",
+            "accountLoginUI": "https://idmsa.apple.com/appleauth/auth/signin?widgetKey=88888888888888888888888888888888",
+            "accountLogin": "https://setup.icloud.com/setup/ws/1/accountLogin",
+            "accountRepairUI": "https://appleid.apple.com/widget/account/?widgetKey=88888888888888888888888888888888#!repair",
+            "downloadICloudTerms": "https://setup.icloud.com/setup/ws/1/downloadLiteTerms",
+            "repairDone": "https://setup.icloud.com/setup/ws/1/repairDone",
+            "vettingUrlForEmail": "https://id.apple.com/IDMSEmailVetting/vetShareEmail",
+            "accountCreate": "https://setup.icloud.com/setup/ws/1/createLiteAccount",
+            "getICloudTerms": "https://setup.icloud.com/setup/ws/1/getTerms",
+            "vettingUrlForPhone": "https://id.apple.com/IDMSEmailVetting/vetSharePhone"
+        },
+        "accountCreateEnabled": "true"
+    },
+    "hsaTrustedBrowser": false,
+    "appsOrder": [
+        "mail",
+        "contacts",
+        "calendar",
+        "photos",
+        "iclouddrive",
+        "notes2",
+        "reminders",
+        "pages",
+        "numbers",
+        "keynote",
+        "newspublisher",
+        "fmf",
+        "find",
+        "settings"
+    ],
+    "version": 2,
+    "isExtendedLogin": false,
+    "pcsServiceIdentitiesIncluded": false,
+    "hsaChallengeRequired": true,
+    "requestInfo": {
+        "country": "GB",
+        "timeZone": "GMT",
+        "isAppleInternal": true,
+        "region": "EN"
+    },
+    "pcsDeleted": false,
+    "iCloudInfo": {
+        "SafariBookmarksHasMigratedToCloudKit": false
+    },
+    "apps": {
+        "calendar": {},
+        "reminders": {},
+        "keynote": {
+            "isQualifiedForBeta": true
+        },
+        "settings": {
+            "canLaunchWithOneFactor": true
+        },
+        "mail": {},
+        "numbers": {
+            "isQualifiedForBeta": true
+        },
+        "photos": {},
+        "pages": {
+            "isQualifiedForBeta": true
+        },
+        "find": {
+            "canLaunchWithOneFactor": true
+        },
+        "notes2": {},
+        "iclouddrive": {},
+        "newspublisher": {
+            "isHidden": true
+        },
+        "fmf": {},
+        "contacts": {}
+    }
+}

@@ -1,0 +1,27 @@
+{
+    "success": false,
+    "requestInfo": [
+        {
+            "country": "GB",
+            "timeZone": "GMT",
+            "isAppleInternal": true,
+            "region": "EN"
+        }
+    ],
+    "configBag": {
+        "urls": {
+            "accountCreateUI": "https://appleid.apple.com/widget/account/?widgetKey=83545bf919730e51dbfba24e7e8a78d2#!create",
+            "accountLoginUI": "https://idmsa.apple.com/appleauth/auth/signin?widgetKey=83545bf919730e51dbfba24e7e8a78d2",
+            "accountLogin": "https://setup.icloud.com/setup/ws/1/accountLogin",
+            "accountRepairUI": "https://appleid.apple.com/widget/account/?widgetKey=83545bf919730e51dbfba24e7e8a78d2#!repair",
+            "downloadICloudTerms": "https://setup.icloud.com/setup/ws/1/downloadLiteTerms",
+            "repairDone": "https://setup.icloud.com/setup/ws/1/repairDone",
+            "vettingUrlForEmail": "https://id.apple.com/IDMSEmailVetting/vetShareEmail",
+            "accountCreate": "https://setup.icloud.com/setup/ws/1/createLiteAccount",
+            "getICloudTerms": "https://setup.icloud.com/setup/ws/1/getTerms",
+            "vettingUrlForPhone": "https://id.apple.com/IDMSEmailVetting/vetSharePhone"
+        },
+        "accountCreateEnabled": "true"
+    },
+    "error": "Missing X-APPLE-WEBAUTH-TOKEN cookie"
+}

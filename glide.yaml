@@ -1,0 +1,4 @@
+package: github.com/michaljirman/fmidevice
+import:
+- package: github.com/spf13/cobra
+- package: github.com/satori/go.uuid

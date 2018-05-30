@@ -1,0 +1,10 @@
+language: go
+go:
+  - 1.9
+env:
+  global:
+    - CGO_ENABLED=0
+install: true
+script:
+  - go vet $(go list ./... | grep -v vendor)
+  - go build
